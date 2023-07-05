@@ -1,16 +1,8 @@
 # iclean
 
-A new Flutter project.
+A simple UI for cleaning services app using Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/jayapradha0105/iClean/assets/74710648/688de53c-4123-4d01-ae59-7e602f67ace5
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
