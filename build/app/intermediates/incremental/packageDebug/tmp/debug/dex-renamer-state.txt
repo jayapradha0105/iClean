@@ -1,0 +1,4 @@
+#Thu Dec 15 21:23:12 IST 2022
+base.0=/home/rejolut/Documents/exp/Projects/iclean/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
